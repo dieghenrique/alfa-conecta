@@ -21,7 +21,7 @@ console is a separate project.
 | Platform | File |
 |---|---|
 | Windows (x64) | [alfaconecta-1.5.0-x86_64.exe](https://remoto.alfacont.cloud/downloads/alfaconecta-1.5.0-x86_64.exe) · [alfaconecta-1.5.0-x86_64.msi](https://remoto.alfacont.cloud/downloads/alfaconecta-1.5.0-x86_64.msi) |
-| macOS | Apple Silicon and Intel builds — see the organization's deployment page |
+| macOS | [Apple Silicon (alfaconecta-1.5.0-aarch64.dmg)](https://remoto.alfacont.cloud/downloads/alfaconecta-1.5.0-aarch64.dmg) · [Intel (alfaconecta-1.5.0-x86_64.dmg)](https://remoto.alfacont.cloud/downloads/alfaconecta-1.5.0-x86_64.dmg) |
 
 Checksums: [SHA256SUMS.txt](https://remoto.alfacont.cloud/downloads/SHA256SUMS.txt). Builds are produced exclusively by the
 GitHub Actions workflows of this repository.
